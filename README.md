@@ -67,28 +67,62 @@ Após a entrega deste projeto ficará público :  https://github.com/ProjetoSD
 ## Aplicação
 
 ### Página de Login
+
+<div align="center">
+
 ![](images/login.png)
 
 ### Página de Registo
+
+<div align="center">
+
 ![](images/registo.png)
 
+</div>
+
 ### Landing Page
+
+<div align="center">
+
 ![](images/landingPage.png)
+
 ![](images/landingPage01.png)
 
+</div>
+
 ### Página de Pessoal
+
+<div align="center">
+
 ![](images/areaPessoal.png)
 
+</div>
+
 ### Reserva Automóvel
+
+<div align="center">
+
 ![](images/reservarCarro.png)
 
+</div>
+
 ### Ambiente da Administração
+
+<div align="center">
+
 ![](images/adminPage00.png)
+
 ![](images/adminPage01.png)
+
 ![](images/adminPage02.png)
+
 ![](images/adminPage03.png)
+
 ![](images/adminPage04.png)
+
 ![](images/adminPage05.png)
+
+</div>
 
 <!-- 
 
