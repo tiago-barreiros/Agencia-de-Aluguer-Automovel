@@ -301,18 +301,26 @@ Após a entrega deste projeto ficará público :  https://github.com/ProjetoSD
 - Executa a app e acede ao website no URL de um browser: http://localhost:8080
 - Desfruta e Diverte-te
 
-## Documentação
-- [Ficha 09 (Sistemas Distribuídos 22/23)](https://www.di.ubi.pt/~pprata/spd/SD_FP09.pdf)
-- [Java Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-- [Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html)
-- [Spring Security](https://docs.spring.io/spring-security/site/docs/current/reference/html5/)
-- [Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
-- [Spring Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web)
-- [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator)
-- [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-devtools)
-- [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
-- [MySQL](https://dev.mysql.com/doc/)
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.6/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.6/maven-plugin/reference/html/#build-image)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.0.6/reference/htmlsingle/#using.devtools)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.0.6/reference/htmlsingle/#data.sql.jpa-and-spring-data)
+* [Thymeleaf](https://docs.spring.io/spring-boot/docs/3.0.6/reference/htmlsingle/#web.servlet.spring-mvc.template-engines)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.6/reference/htmlsingle/#web)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 
 > A restante documentação encontra-se no extenso Relatório Técnico estruturado mediante o desenvolvimento deste projeto.
 
